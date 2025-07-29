@@ -22,7 +22,7 @@ Der Zeilenabstand = 10 ist optimal für diesen Treiber.
 **=> 4 Zeilen á 9 Zeichen**
 
 ### 2) MicroPython
-FW https://micropython.org/resources/firmware/LOLIN_C3_MINI-20250415-v1.25.0.bin  
+FW https://micropython.org/resources/firmware/LOLIN_C3_MINI-20250415-v1.25.0.bin (oder neuer)  
 ```
 esptool -p COM11 erase_flash
 esptool -p COM11 write_flash 0 LOLIN_C3_MINI-20250415-v1.25.0.bin
