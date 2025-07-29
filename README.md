@@ -12,6 +12,8 @@ von: https://emalliab.wordpress.com/2025/02/12/esp32-c3-0-42-oled/
 **OLED**: SCL = `GPIO6`, SDA = `GPIO5`  
 Spezielle Anschlüsse: ADC, IIC=I²C, SPI, Serielle Schnittstelle  
 
+Die Schaltung sollte dem entsprechen: https://github.com/zhuhai-esp/ESP32-C3-ABrobot-OLED/blob/main/Document/ESP32C3%20OLED%E5%8E%9F%E7%90%86%E5%9B%BE.pdf
+
 Das 0,42"-OLED ist ein Display mit 128x64 Pixel Buffer und **angezeigten 73 x 64 Pixel**.  
 Der Pixel-Offset ist: **x+27** und **y+24** (SSD1306-Treiber)  
 Mit dem **SSD1306.py** Treiber können 9 Zeichen á 8 Pixel Breite + 1 Pixel = 73 Pixel dargestellt werden.
