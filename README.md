@@ -2,7 +2,8 @@
 Verschiedene Anwendungen mit dem **ABrobot ESP32-C3 mini** Module mit **0.42"-OLED**
 
 ### 1) Daten
-**ESP32-C3** (ESP32C3FH4), 4MB-Flash, WLAN, Bluetooth, Keramikantenne, 0,42"-OLED und USB-C.
+**ESP32-C3** (ESP32C3FH4), 4MB-Flash, WLAN, Bluetooth, Keramikantenne, 0,42"-OLED.  
+Abmessung mit USB-C Buchse 27 x 20 mm.
 
 <img width="609" height="330" alt="grafik" src="https://github.com/user-attachments/assets/981b1f32-de2a-4133-b237-8e4ff96f1e25" />  
 
