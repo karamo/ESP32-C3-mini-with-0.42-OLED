@@ -10,6 +10,7 @@ Abmessung mit USB-C Buchse 27 x 20 mm.
 von: https://emalliab.wordpress.com/2025/02/12/esp32-c3-0-42-oled/ (gute Beschreibung mit Beispielen)
 
 **OLED**: SCL = `GPIO6`, SDA = `GPIO5`  
+**BOOT-Button** = `GPIO9`
 Spezielle Anschlüsse: ADC, IIC=I²C, SPI, Serielle Schnittstelle  
 
 Die Schaltung sollte dem entsprechen: https://github.com/zhuhai-esp/ESP32-C3-ABrobot-OLED/blob/main/Document/ESP32C3%20OLED%E5%8E%9F%E7%90%86%E5%9B%BE.pdf
