@@ -1,7 +1,7 @@
 # ESP32-C3 mini with 0.42-OLED
 Verschiedene Anwendungen mit dem **ABrobot ESP32-C3 mini** Module mit **0.42"-OLED**
 
-### Daten
+### 1) Daten
 **ESP32-C3** (ESP32C3FH4), 4MB-Flash, WLAN, Bluetooth, Keramikantenne, 0,42"-OLED und USB-C.
 
 <img width="609" height="330" alt="grafik" src="https://github.com/user-attachments/assets/981b1f32-de2a-4133-b237-8e4ff96f1e25" />  
@@ -18,7 +18,7 @@ Der Zeichensatz ist aus 8x8 Pixel Zeichen.
 Der Zeilenabstand = 10 ist optimal für diesen Treiber.  
 **=> 4 Zeilen á 9 Zeichen**
 
-### 1) MicroPython
+### 2) MicroPython
 FW https://micropython.org/resources/firmware/LOLIN_C3_MINI-20250415-v1.25.0.bin  
 ```
 esptool -p COM11 erase_flash
