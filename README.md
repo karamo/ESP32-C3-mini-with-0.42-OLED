@@ -7,7 +7,7 @@ Abmessung mit USB-C Buchse 27 x 20 mm.
 
 <img width="609" height="330" alt="grafik" src="https://github.com/user-attachments/assets/981b1f32-de2a-4133-b237-8e4ff96f1e25" />  
 
-von: https://emalliab.wordpress.com/2025/02/12/esp32-c3-0-42-oled/
+von: https://emalliab.wordpress.com/2025/02/12/esp32-c3-0-42-oled/ (gute Beschreibung mit Beispielen)
 
 **OLED**: SCL = `GPIO6`, SDA = `GPIO5`  
 Spezielle Anschlüsse: ADC, IIC=I²C, SPI, Serielle Schnittstelle  
