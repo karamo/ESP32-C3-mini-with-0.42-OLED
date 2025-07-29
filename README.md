@@ -27,6 +27,7 @@ FW https://micropython.org/resources/firmware/LOLIN_C3_MINI-20250415-v1.25.0.bin
 esptool -p COM11 erase_flash
 esptool -p COM11 write_flash 0 LOLIN_C3_MINI-20250415-v1.25.0.bin
 ```
+!!! COM11 entsprechend anpassen !!!
 
 **MicroPython** meldet sich mit **115200 Baud**. Mit Thonny getestet und programmiert.  
 
